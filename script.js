@@ -37,7 +37,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Tráfico de drogas",
-                afirmacao: "é a atividdade criminosa que envolve a produção e distribuição e venda ilegal de suibstâncias entorpecentes"
+                afirmacao: "é a atividdade criminosa que envolve a produção e distribuição e venda ilegal de substâncias entorpecentes"
             },
             {
                 texto: "Roubo"
