@@ -10,11 +10,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Câmera de segurança",
-                afirmacao: "afirmacao"
+                afirmacao: "onde foi instalado câmeras pela cidade inteira, e caso precise é tudo filmado "
             },
             {
                 texto: "Sensor e de segurança"
-                afirmacao: "afirmacao"
+                afirmacao: "quando alguém tenta invadir algum comércio ou algum lugar que tenha este sensor ele é disparado e é direcionado o sinal para delegacia "
             }
         ]
     },
@@ -23,11 +23,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Fome",
-                afirmacao: "afirmacao"
+                afirmacao: "é um dos principais fatores da ocorrência do roubo, a fome leva o indivíduo a roubar para se alimentar"
             },
             {
                 texto: "Desemprego"
-                afirmacao: "afirmacao"
+                afirmacao: "é outro dos principais fatores para o crime, eles roubam para conseguir dinheiro e se sustentarem "
             }
         ]
         
@@ -37,11 +37,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Tráfico de drogas",
-                afirmacao: "afirmacao"
+                afirmacao: "é a atividdade criminosa que envolve a produção e distribuição e venda ilegal de suibstâncias entorpecentes"
             },
             {
                 texto: "Roubo"
-                afirmacao: "afirmacao"
+                afirmacao: "é um crime contra o patrimônio que envolve a apropriação indébita de bens ou recursos de outra pessoa por meio de ameaça, violência, ou intimidação, pode ocorrer em diversos contextos, como assaltos a mão armada, furtos em residências, roubos a estabelcimentos comerciais, etc. "
             }enunciado
         ]
     },
